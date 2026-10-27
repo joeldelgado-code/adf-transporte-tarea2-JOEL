@@ -2,7 +2,7 @@
 	"name": "df_bronze_incidentes",
 	"properties": {
 		"folder": {
-			"name": "bronze"
+			"name": "df_bronze"
 		},
 		"type": "MappingDataFlow",
 		"typeProperties": {
@@ -39,7 +39,7 @@
 			"sinks": [
 				{
 					"dataset": {
-						"referenceName": "dw_bronze_incidentes",
+						"referenceName": "dw_bronze_incidentes_sql",
 						"type": "DatasetReference"
 					},
 					"name": "sink1"

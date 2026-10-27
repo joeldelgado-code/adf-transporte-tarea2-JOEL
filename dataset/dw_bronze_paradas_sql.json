@@ -1,5 +1,5 @@
 {
-	"name": "dw_bronze_paradas",
+	"name": "dw_bronze_paradas_sql",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "dw_transporte_db",

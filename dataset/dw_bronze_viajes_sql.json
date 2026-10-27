@@ -1,5 +1,5 @@
 {
-	"name": "dw_bronze_viajes",
+	"name": "dw_bronze_viajes_sql",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "dw_transporte_db",
