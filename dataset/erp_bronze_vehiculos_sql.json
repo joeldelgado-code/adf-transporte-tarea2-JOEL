@@ -1,12 +1,12 @@
 {
-	"name": "bronze_vehiculos_sql",
+	"name": "erp_bronze_vehiculos_sql",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "erp_transporte_db",
 			"type": "LinkedServiceReference"
 		},
 		"folder": {
-			"name": "bronze/sql"
+			"name": "bronze/sql/erp"
 		},
 		"annotations": [],
 		"type": "AzureSqlTable",
